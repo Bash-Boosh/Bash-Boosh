@@ -2,7 +2,17 @@
 # 💫 About Me:
 Computer Science student | Cyber Security Enthusiast | Competitive Programmer<br><br>Currently learning C++, Data Structures & Algorithms, Networking, and Cyber Security.<br>
 
+🏆 Competitive Programming
 
+<p align="center">
+  <a href="https://codeforces.com/profile/beshoonasr1974">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=beshoonasr1974" alt="Codeforces Stats" />
+  </a>
+</p><p align="center">
+  <a href="https://codeforces.com/profile/beshoonasr1974">
+    🔵 View my Codeforces Profile
+  </a>
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bishoy-nasr-5a0373409/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BJs7UOmnPSxGTc4ngtQ%2FZQw%3D%3D) 
 
